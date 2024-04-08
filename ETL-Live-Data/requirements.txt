@@ -1,0 +1,4 @@
+yfinance
+pandas
+pymongo
+Yahoo_fin
