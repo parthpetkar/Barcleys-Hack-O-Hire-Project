@@ -23,8 +23,8 @@ def main():
     anomalies_iforest = iforest_model.find_anomalies(train_data)
     # anomalies_iforest.to_csv('test_iso.csv')
 
-    # iforest_model.send_to_mongodb(anomalies_iforest, "mongodb+srv://sanjayparth22:sanjayP37@cluster0.r9enpld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", "Hackathon", "Anomalies")
-    iforest_model.send_to_mongodb(anomalies_iforest, "mongodb+srv://sanjayparth22:sanjayP37@cluster0.r9enpld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", "Hackathon", "Trial")
+    iforest_model.send_to_mongodb(anomalies_iforest, "mongodb+srv://sanjayparth22:sanjayP37@cluster0.r9enpld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", "Hackathon", "Anomalies")
+    # iforest_model.send_to_mongodb(anomalies_iforest, "mongodb+srv://sanjayparth22:sanjayP37@cluster0.r9enpld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", "Hackathon", "Trial")
 
 
 if __name__ == '__main__':
