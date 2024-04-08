@@ -1,0 +1,12 @@
+version: '3'
+services:
+  service1:
+    image: etlimage
+    # Add any other configurations for service1
+
+  service2:
+    image: mlimage
+    # Add any other configurations for service2
+    depends_on:
+      - service1
+  
