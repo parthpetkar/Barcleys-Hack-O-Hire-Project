@@ -24,7 +24,7 @@
 - [Contributor Name](https://github.com/contributor)
 
 ## Company Logo
-![Company Logo](Assets\barclaycard_us_logo.jpg)
+![Company Logo](../barcleys_hack_o_hire_project/Assets/barclaycard_us_logo.jpg)
 
 ## Description
 This Project Was created for the Hackathon held by Barclay's called Hack-O-Hire. The Problem Statement was to develop an Anomaly Detection Framework that will help identify the potential issues and irregularities in the data when compared with the regular submissions. 
@@ -64,9 +64,9 @@ In conclusion, our Anomaly Detection Framework offers a robust and scalable solu
 
 ## Badges
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/issues)
-[![GitHub stars](https://img.shields.io/github/stars/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/network)
+[![GitHub issues](https://img.shields.io/github/issues/parthpetkar/Barcleys_Hack_O_Hire_Project)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project/issues)
+[![GitHub stars](https://img.shields.io/github/stars/parthpetkar/Barcleys_Hack_O_Hire_Project)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/parthpetkar/Barcleys_Hack_O_Hire_Project)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project/network)
 
 ## Installation
 To install and run this project locally, follow these steps:
