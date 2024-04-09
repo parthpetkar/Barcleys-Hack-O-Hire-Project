@@ -64,9 +64,9 @@ In conclusion, our Anomaly Detection Framework offers a robust and scalable solu
 
 ## Badges
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/issues)
-[![GitHub stars](https://img.shields.io/github/stars/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/network)
+[![GitHub issues](https://img.shields.io/github/issues/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/issues)
+[![GitHub stars](https://img.shields.io/github/stars/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/parthpetkar/Barcleys_Hack_O_Hire_Project.git)](https://github.com/parthpetkar/Barcleys_Hack_O_Hire_Project.git/network)
 
 ## Installation
 To install and run this project locally, follow these steps:
