@@ -43,6 +43,8 @@
 
    In the realm of financial transactions, ensuring accuracy and reliability is paramount. However, trade data's vast volume and complexity pose significant challenges in detecting anomalies, which could result in erroneous calculations and payments. This project addresses this critical issue by proposing an Anomaly Detection Framework designed to identify irregularities and potential issues in trade data submissions. Leveraging advanced technologies such as Apache Spark, Airflow, and Tableau, combined with robust data engineering practices and machine learning algorithms, our solution aims to enhance accuracy, reduce manual effort, and foster self-learning across banking functions.
 
+   
+
 ### Aim:
 
    This project aims to develop an Anomaly Detection Framework capable of efficiently identifying irregularities and potential issues within trade data submissions. By integrating cutting-edge technologies and best practices in data engineering and machine learning, our solution seeks to enhance the accuracy of payments, reduce manual effort, and promote self-learning across banking functions.
