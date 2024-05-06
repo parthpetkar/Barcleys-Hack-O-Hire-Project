@@ -1,4 +1,4 @@
-# Barcleys_Hack_O_Hire_Project
+# Barclays Hack-O-Hire Project
 ## Anomaly Detection
 
 ## 🎨 Table of Contents
