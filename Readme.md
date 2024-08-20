@@ -101,8 +101,6 @@ To install and run this project locally, follow these steps:
     ```bash
     Docker-compose up -d 
 
-
-
 ## How to Use the Project
 To use the project, follow these steps:
 
