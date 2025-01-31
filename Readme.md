@@ -24,7 +24,7 @@
 - [Anshu Parihar](https://github.com/contributor)
 
 ## Company Logo
-![Barclay's Logg](../barcleys_hack_o_hire_project/Assets/barclaycard_us_logo.jpg)
+![Barclay's Logo](Assets/barclaycard_us_logo.jpg)
 
 ## Description
    This Project Was created for the Hackathon held by Barclay's called Hack-O-Hire. The Problem Statement was to develop an Anomaly Detection Framework that will help identify the potential issues and irregularities in the data when compared with the regular submissions. 
